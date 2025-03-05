@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function FlushAccordion() {
     return (
-    <Accordion defaultActiveKey="0" className="mt-5 p-3" defaultActiveKey="0" flush >
+    <Accordion defaultActiveKey="0" className="mt-5 p-3" flush >
         <Accordion.Item eventKey="0" className="item">
         <Accordion.Header className="accordion-header">The Porsche 911 GT3 Touring: A Purist's Dream</Accordion.Header>
         <Accordion.Body className="accordion-body">
