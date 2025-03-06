@@ -4,7 +4,7 @@ import FlushAccordion from "./components/Accordion";
 import GT3Form from "./components/GT3Form";
 import Carousel from "./components/Carousel";
 import Card from "./components/Card";
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 import gt3Image1 from "./assets/Engine.jpg";
