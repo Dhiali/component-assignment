@@ -1,7 +1,8 @@
 import React from "react";
 import Accordion from 'react-bootstrap/Accordion';
 import "../components/Accordion.css";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 
 function FlushAccordion() {
     return (
